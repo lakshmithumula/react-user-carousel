@@ -1,5 +1,6 @@
 # User Profile Card App
 ##  :rocket: Live Demo
  :link: 
- user-profile-card-api.netlify.app
+ [Click here to view Live Project]
+ (user-profile-card-api.netlify.app)
 ## :camera:  preview
